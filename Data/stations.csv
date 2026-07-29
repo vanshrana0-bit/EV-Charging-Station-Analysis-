@@ -1,0 +1,51 @@
+Station_ID,Station_Name,City_ID,Station_Type,Charger_Type,Number_of_Chargers,Operator,Opening_Year,Latitude,Longitude
+S001,Delhi Station 1,C001,Mall,AC Fast,5,Statiq,2021,28.614900000000002,77.21000000000001
+S002,Delhi Station 2,C001,Office,DC Fast 30kW,6,ChargeZone,2022,28.6159,77.211
+S003,Delhi Station 3,C001,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,28.6169,77.212
+S004,Delhi Station 4,C001,Public,AC Slow,8,Tata Power EZ Charge,2024,28.617900000000002,77.21300000000001
+S005,Delhi Station 5,C001,Mall,AC Fast,9,Statiq,2025,28.6189,77.214
+S006,Mumbai Station 1,C002,Mall,AC Fast,5,Statiq,2021,19.077,72.87870000000001
+S007,Mumbai Station 2,C002,Office,DC Fast 30kW,6,ChargeZone,2022,19.078,72.8797
+S008,Mumbai Station 3,C002,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,19.079,72.8807
+S009,Mumbai Station 4,C002,Public,AC Slow,8,Tata Power EZ Charge,2024,19.080000000000002,72.88170000000001
+S010,Mumbai Station 5,C002,Mall,AC Fast,9,Statiq,2025,19.081,72.8827
+S011,Bengaluru Station 1,C003,Mall,AC Fast,5,Statiq,2021,12.9726,77.5956
+S012,Bengaluru Station 2,C003,Office,DC Fast 30kW,6,ChargeZone,2022,12.973600000000001,77.5966
+S013,Bengaluru Station 3,C003,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,12.9746,77.5976
+S014,Bengaluru Station 4,C003,Public,AC Slow,8,Tata Power EZ Charge,2024,12.9756,77.5986
+S015,Bengaluru Station 5,C003,Mall,AC Fast,9,Statiq,2025,12.976600000000001,77.5996
+S016,Hyderabad Station 1,C004,Mall,AC Fast,5,Statiq,2021,17.386000000000003,78.4877
+S017,Hyderabad Station 2,C004,Office,DC Fast 30kW,6,ChargeZone,2022,17.387,78.4887
+S018,Hyderabad Station 3,C004,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,17.388,78.4897
+S019,Hyderabad Station 4,C004,Public,AC Slow,8,Tata Power EZ Charge,2024,17.389000000000003,78.4907
+S020,Hyderabad Station 5,C004,Mall,AC Fast,9,Statiq,2025,17.39,78.4917
+S021,Chennai Station 1,C005,Mall,AC Fast,5,Statiq,2021,13.0837,80.27170000000001
+S022,Chennai Station 2,C005,Office,DC Fast 30kW,6,ChargeZone,2022,13.084700000000002,80.2727
+S023,Chennai Station 3,C005,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,13.085700000000001,80.2737
+S024,Chennai Station 4,C005,Public,AC Slow,8,Tata Power EZ Charge,2024,13.0867,80.27470000000001
+S025,Chennai Station 5,C005,Mall,AC Fast,9,Statiq,2025,13.087700000000002,80.2757
+S026,Pune Station 1,C006,Mall,AC Fast,5,Statiq,2021,18.5214,73.85770000000001
+S027,Pune Station 2,C006,Office,DC Fast 30kW,6,ChargeZone,2022,18.522399999999998,73.8587
+S028,Pune Station 3,C006,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,18.5234,73.8597
+S029,Pune Station 4,C006,Public,AC Slow,8,Tata Power EZ Charge,2024,18.5244,73.86070000000001
+S030,Pune Station 5,C006,Mall,AC Fast,9,Statiq,2025,18.525399999999998,73.8617
+S031,Kolkata Station 1,C007,Mall,AC Fast,5,Statiq,2021,22.573600000000003,88.3649
+S032,Kolkata Station 2,C007,Office,DC Fast 30kW,6,ChargeZone,2022,22.5746,88.3659
+S033,Kolkata Station 3,C007,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,22.5756,88.3669
+S034,Kolkata Station 4,C007,Public,AC Slow,8,Tata Power EZ Charge,2024,22.576600000000003,88.3679
+S035,Kolkata Station 5,C007,Mall,AC Fast,9,Statiq,2025,22.5776,88.3689
+S036,Ahmedabad Station 1,C008,Mall,AC Fast,5,Statiq,2021,23.023500000000002,72.5724
+S037,Ahmedabad Station 2,C008,Office,DC Fast 30kW,6,ChargeZone,2022,23.0245,72.57339999999999
+S038,Ahmedabad Station 3,C008,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,23.0255,72.5744
+S039,Ahmedabad Station 4,C008,Public,AC Slow,8,Tata Power EZ Charge,2024,23.026500000000002,72.5754
+S040,Ahmedabad Station 5,C008,Mall,AC Fast,9,Statiq,2025,23.0275,72.57639999999999
+S041,Jaipur Station 1,C009,Mall,AC Fast,5,Statiq,2021,26.913400000000003,75.7883
+S042,Jaipur Station 2,C009,Office,DC Fast 30kW,6,ChargeZone,2022,26.9144,75.7893
+S043,Jaipur Station 3,C009,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,26.9154,75.7903
+S044,Jaipur Station 4,C009,Public,AC Slow,8,Tata Power EZ Charge,2024,26.916400000000003,75.7913
+S045,Jaipur Station 5,C009,Mall,AC Fast,9,Statiq,2025,26.9174,75.7923
+S046,Lucknow Station 1,C010,Mall,AC Fast,5,Statiq,2021,26.8477,80.94720000000001
+S047,Lucknow Station 2,C010,Office,DC Fast 30kW,6,ChargeZone,2022,26.848699999999997,80.9482
+S048,Lucknow Station 3,C010,Highway,DC Fast 60kW,7,Jio-bp pulse,2023,26.8497,80.9492
+S049,Lucknow Station 4,C010,Public,AC Slow,8,Tata Power EZ Charge,2024,26.8507,80.95020000000001
+S050,Lucknow Station 5,C010,Mall,AC Fast,9,Statiq,2025,26.851699999999997,80.9512

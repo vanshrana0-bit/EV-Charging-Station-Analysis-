@@ -1,0 +1,11 @@
+City_ID,City,State,Region,Population_Category,Latitude,Longitude
+C001,Delhi,Delhi,North,Metro,28.6139,77.209
+C002,Mumbai,Maharashtra,West,Metro,19.076,72.8777
+C003,Bengaluru,Karnataka,South,Metro,12.9716,77.5946
+C004,Hyderabad,Telangana,South,Metro,17.385,78.4867
+C005,Chennai,Tamil Nadu,South,Metro,13.0827,80.2707
+C006,Pune,Maharashtra,West,Metro,18.5204,73.8567
+C007,Kolkata,West Bengal,East,Metro,22.5726,88.3639
+C008,Ahmedabad,Gujarat,West,Large,23.0225,72.5714
+C009,Jaipur,Rajasthan,North,Large,26.9124,75.7873
+C010,Lucknow,Uttar Pradesh,North,Large,26.8467,80.9462
